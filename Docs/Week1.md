@@ -30,8 +30,44 @@ From ip addr command:
 enp0s8 = 192.168.56.3/24 (Host-Only Network)
 <img width="812" height="523" alt="Task 1 Getting ip via ipaddr" src="https://github.com/user-attachments/assets/752a8aee-f1d0-4f6e-8fb1-ae64e7d2e53c" />
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5.
+5. System Specifications (CLI Evidence) Kernel Info (uname -a)
+
+<img width="927" height="65" alt="Task 1 uname -a" src="https://github.com/user-attachments/assets/009d22c8-5788-41c3-b18d-9168b18ef8e9" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Memory info (free-h)
+
+<img width="977" height="123" alt="Task 1 free -h" src="https://github.com/user-attachments/assets/03964ea1-0616-4082-beb4-8c74b887ef49" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Disk Info (df -h)
+
+<img width="637" height="207" alt="Task 1 df- h" src="https://github.com/user-attachments/assets/7934dc7a-dd14-47b8-97e5-0a857042152f" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Network Info (ip addr)
+
+<img width="1152" height="512" alt="tast 1 ipaddr" src="https://github.com/user-attachments/assets/d78d6243-2832-4589-af97-d5fa47cd0fe8" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Release Info (lsb_release -a)
+
+<img width="560" height="132" alt="Task 1 lab_release -a" src="https://github.com/user-attachments/assets/163effbb-1f3d-4c89-9fc2-b18940a8e128" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7. Reflection
+
+This week I set up my Ubuntu Server VM in VirtualBox and connected to it from my host PC using SSH (PowerShell). I enabled two network adapters: NAT for internet updates and Host-Only so my host computer could reach the VM. I checked the VM’s IP address using ip addr and confirmed SSH was working. I ran commands like uname, free -h, df -h, ip addr, and lsb_release to collect system information and added an architecture diagram to my journal.
+
+
+
 
 
 
