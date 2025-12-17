@@ -19,14 +19,14 @@ Key areas covered:
 
 ## Weekly Journal
 | Week | Focus Area | Link |
-|------|-------------|------|
-| 1 | System Planning & Distribution Selection | [Week 1](week1.md) |
-| 2 | Security Planning & Testing Methodology | [Week 2](week2.md) |
-| 3 | Application Selection & Workload Design | [Week 3](week3.md) |
-| 4 | Initial System Configuration & Security | [Week 4](week4.md) |
-| 5 | Advanced Security & Monitoring Scripts | [Week 5](week5.md) |
-| 6 | Performance Evaluation & Optimisation | [Week 6](week6.md) |
-| 7 | Security Audit & System Evaluation | [Week 7](week7.md) |
+|------|------------|------|
+| 1 | System Planning & Distribution Selection | [Week 1](week1) |
+| 2 | Security Planning & Testing Methodology | [Week 2](week2) |
+| 3 | Application Selection & Workload Design | [Week 3](week3) |
+| 4 | Initial System Configuration & Security | [Week 4](week4) |
+| 5 | Advanced Security & Monitoring Scripts | [Week 5](week5) |
+| 6 | Performance Evaluation & Optimisation | [Week 6](week6) |
+| 7 | Security Audit & System Evaluation | [Week 7](week7) |
 
 
 
