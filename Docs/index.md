@@ -18,18 +18,17 @@ Key areas covered:
 ---
 
 ## Weekly Journal
+| Week | Focus Area | Link |
+|------|-------------|------|
+| 1 | System Planning & Distribution Selection | [Week 1](week1.md) |
+| 2 | Security Planning & Testing Methodology | [Week 2](week2.md) |
+| 3 | Application Selection & Workload Design | [Week 3](week3.md) |
+| 4 | Initial System Configuration & Security | [Week 4](week4.md) |
+| 5 | Advanced Security & Monitoring Scripts | [Week 5](week5.md) |
+| 6 | Performance Evaluation & Optimisation | [Week 6](week6.md) |
+| 7 | Security Audit & System Evaluation | [Week 7](week7.md) |
 
-| Week | Topic | Link |
-|------|-------|------|
-| 1 | System Planning & OS Selection | [Week 1](week1.md) |
-| 2 | Security Planning & Testing Approach | [Week 2](week2.md) |
-| 3 | Workload Design & Application Selection | [Week 3](week3.md) |
-| 4 | Core Configuration & Initial Security Controls | [Week 4](week4.md) |
-| 5 | Advanced Security Controls & Monitoring Scripts | [Week 5](week5.md) |
-| 6 | Performance Testing, Results & Optimisation | [Week 6](week6.md) |
-| 7 | Security Audit & Final System Evaluation | [Week 7](week7.md) |
 
----
 
 ## Project Objectives
 1. Deploy and administer a Linux server using CLI-based methods only.
