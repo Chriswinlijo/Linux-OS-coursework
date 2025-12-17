@@ -20,7 +20,7 @@ Key areas covered:
 ## Weekly Journal
 | Week | Focus Area | Link |
 |------|------------|------|
-| 1 | System Planning & Distribution Selection | [Week 1](week1) |
+| 1 | System Planning & Distribution Selection | [Week 1](week1.md) |
 | 2 | Security Planning & Testing Methodology | [Week 2](week2) |
 | 3 | Application Selection & Workload Design | [Week 3](week3) |
 | 4 | Initial System Configuration & Security | [Week 4](week4) |
