@@ -9,3 +9,15 @@ To improve the SSH safety the key based authentication was configured. This stop
 
 
 <img width="777" height="336" alt="task 4 logging in without a password" src="https://github.com/user-attachments/assets/2e361644-6cdc-46a3-b943-ae6399556eb3" />
+
+-------------------------------------------------------------
+
+SSH hardening
+Before editing
+<img width="731" height="713" alt="week 4 before" src="https://github.com/user-attachments/assets/8bf3069b-a9f5-4ddd-af59-9e98aa6eeb8e" />
+
+After editing
+<img width="697" height="236" alt="week 4 after" src="https://github.com/user-attachments/assets/70ad5ed5-7a81-4a5a-9f78-a8077a1f7013" />
+
+
+<img width="915" height="133" alt="week 4 password" src="https://github.com/user-attachments/assets/93390c82-935d-4800-aa11-177bd1cb0b65" />
