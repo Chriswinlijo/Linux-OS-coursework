@@ -16,16 +16,15 @@ Key areas covered:
 - Weekly reflection and continuous improvement
 
 ---
-
 ## Weekly Journal
 
-- [Week 1 — System Planning & Initial Setup](week1.md)
-- [Week 2 — Security Planning & Testing Methodology](week2.md)
-- [Week 3 — Application Selection & Workload Design](week3.md)
-- [Week 4 — Initial System Configuration & Security](week4.md)
-- [Week 5 — Advanced Security & Monitoring Scripts](week5.md)
-- [Week 6 — Performance Evaluation & Optimisation](week6.md)
-- [Week 7 — Security Audit & System Evaluation](week7.md)
+- [Week 1 — System Planning & Initial Setup](weeks/week1.md)
+- [Week 2 — Security Planning & Testing Methodology](weeks/week2.md)
+- [Week 3 — Application Selection & Workload Design](weeks/week3.md)
+- [Week 4 — Initial System Configuration & Security](weeks/week4.md)
+- [Week 5 — Advanced Security & Monitoring Scripts](weeks/week5.md)
+- [Week 6 — Performance Evaluation & Optimisation](weeks/week6.md)
+- [Week 7 — Security Audit & System Evaluation](weeks/week7.md)
 
 
 
